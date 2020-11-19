@@ -4,7 +4,6 @@
 
 1. Locust - [Locust](https://docs.locust.io/en/stable/installation.html)
 
-2. ACME Fitness App 
 
 ### Steps
 
@@ -15,5 +14,3 @@
 3. Navigate to http://localhost:8089
 
 4. Click on 'New Test' and provide the number of users to simulate. 
-
-
